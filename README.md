@@ -1,3 +1,3 @@
 # Altstore Repo
 
-Just for bordom and just utter curiousity.
+Just for boredom and just utter curiousity.
