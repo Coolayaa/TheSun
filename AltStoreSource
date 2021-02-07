@@ -4,9 +4,9 @@
   "apps": [
     {
       "name": "Bloons TD6",
-      "bundleIdentifier": "ru.nonamedude.iTorrent",
-      "developerName": "XITRIX",
-      "subtitle": "iOS torrent client app",
+      "bundleIdentifier": "com.ninjakiwi.bloonstd6",
+      "developerName": "Ninja Kiwi",
+      "subtitle": "Bloons TD 6",
       "version": "1.8",
       "versionDate": "2020-03-24T14:30:00+05:30",
       "versionDescription": "- Most of the application was rewritten from scratch, no more memory leaks\n- Significantly improved stability of the app\n- Memory management implemented\n- Memory allocation for files before downloading\n- Libtorrent updated to 1.2.6\n- UI improvements, noticeable and not so much\n- Added integration with Patreon",
