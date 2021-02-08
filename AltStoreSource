@@ -15,11 +15,11 @@
       "iconURL": "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/72/0d/43/720d43de-ca33-6f11-a4f5-c755fefd6707/source/512x512bb.jpg",
       "tintColor": "a1261b",
       "size": 20132659,
-      "screenshotURLs": [
-        ,
-        ,
-        ,
-		    ""
+      "screenshotURLs": 
+        "https://bunduuk.github.io/altstore-source/img/iNDS/screen1.png"
+        
+        
+		    
       ]
     },
     {
