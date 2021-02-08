@@ -1,20 +1,26 @@
 {
-  "name": "Bunduuk's AltStore",
-  "identifier": "com.bunduuk.altstore",
+  "name": "Coolayaa's AltStore",
+  "identifier": "com.coolayaa.altstore",
   "apps": [
     {
-      "name": "iTorrent",
-      "bundleIdentifier": "ru.nonamedude.iTorrent",
-      "developerName": "XITRIX",
-      "subtitle": "iOS torrent client app",
-      "version": "1.8",
-      "versionDate": "2020-03-24T14:30:00+05:30",
-      "versionDescription": "- Most of the application was rewritten from scratch, no more memory leaks\n- Significantly improved stability of the app\n- Memory management implemented\n- Memory allocation for files before downloading\n- Libtorrent updated to 1.2.6\n- UI improvements, noticeable and not so much\n- Added integration with Patreon",
+      "name": "Bloons TD 6",
+      "bundleIdentifier": "com.ninjakiwi.bloonstd6",
+      "developerName": "Ninja Kiwi",
+      "subtitle": "Mega Fun Tower Defense Game",
+      "version": "10.0.1",
+      "versionDate": "2021-02-24T14:30:00+05:30",
+      "versionDescription": "- Mega Fun Tower Defense Game/n god help me i spent 2 hours doing this",
       "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/iTorrent/iTorrent.ipa?raw=true",
       "localizedDescription": "iTorrent is a torrent client for iOS with Files app support.",
       "iconURL": "https://bunduuk.github.io/altstore-source/img/iTorrent/icon.png",
       "tintColor": "a1261b",
       "size": 20132659,
+      "screenshotURLs": [
+        "https://bunduuk.github.io/altstore-source/img/iTorrent/screen1.png",
+        "https://bunduuk.github.io/altstore-source/img/iTorrent/screen2.png",
+        "https://bunduuk.github.io/altstore-source/img/iTorrent/screen3.png",
+		    "https://bunduuk.github.io/altstore-source/img/iTorrent/screen4.png"
+      ]
     },
     {
       "name": "iNDS",
